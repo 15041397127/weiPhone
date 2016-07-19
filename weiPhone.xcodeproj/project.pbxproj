@@ -11,10 +11,25 @@
 		346597EF1D37848700F533C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 346597EE1D37848700F533C3 /* AppDelegate.m */; };
 		346597F21D37848700F533C3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 346597F11D37848700F533C3 /* ViewController.m */; };
 		346597F51D37848700F533C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 346597F31D37848700F533C3 /* Main.storyboard */; };
-		346597F71D37848700F533C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 346597F61D37848700F533C3 /* Assets.xcassets */; };
 		346597FA1D37848700F533C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 346597F81D37848700F533C3 /* LaunchScreen.storyboard */; };
 		346598051D37848700F533C3 /* weiPhoneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 346598041D37848700F533C3 /* weiPhoneTests.m */; };
 		346598101D37848700F533C3 /* weiPhoneUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3465980F1D37848700F533C3 /* weiPhoneUITests.m */; };
+		346598241D378F2A00F533C3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 346598231D378F2A00F533C3 /* Images.xcassets */; };
+		346598291D37928900F533C3 /* Images-2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 346598281D37928900F533C3 /* Images-2.xcassets */; };
+		3465982F1D387C6200F533C3 /* bg_landscape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3465982B1D387C6200F533C3 /* bg_landscape.jpg */; };
+		346598301D387C6200F533C3 /* bg_portrait.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3465982C1D387C6200F533C3 /* bg_portrait.jpg */; };
+		346598311D387C6200F533C3 /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3465982D1D387C6200F533C3 /* bg.jpg */; };
+		346598321D387C6200F533C3 /* style.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3465982E1D387C6200F533C3 /* style.plist */; };
+		346598361D387C8100F533C3 /* login_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 346598331D387C8100F533C3 /* login_logo.png */; };
+		346598371D387C8100F533C3 /* login_logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 346598341D387C8100F533C3 /* login_logo@2x.png */; };
+		346598381D387C8100F533C3 /* login_logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 346598351D387C8100F533C3 /* login_logo@3x.png */; };
+		3465983B1D387CAD00F533C3 /* AppReleaseInfo-568h.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 346598391D387CAD00F533C3 /* AppReleaseInfo-568h.jpg */; };
+		3465983C1D387CAD00F533C3 /* AppReleaseInfo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3465983A1D387CAD00F533C3 /* AppReleaseInfo.jpg */; };
+		3465983E1D38CCF800F533C3 /* 线.png in Resources */ = {isa = PBXBuildFile; fileRef = 3465983D1D38CCF800F533C3 /* 线.png */; };
+		346598401D38DB2E00F533C3 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3465983F1D38DB2E00F533C3 /* CoreMotion.framework */; };
+		346598431D38DBC400F533C3 /* ZXCoreMotion.m in Sources */ = {isa = PBXBuildFile; fileRef = 346598421D38DBC400F533C3 /* ZXCoreMotion.m */; };
+		346598461D3CBECC00F533C3 /* ZXGravityImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 346598451D3CBECC00F533C3 /* ZXGravityImgView.m */; };
+		3465984B1D3E233300F533C3 /* ZXGuideView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3465984A1D3E233300F533C3 /* ZXGuideView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,7 +57,6 @@
 		346597F01D37848700F533C3 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		346597F11D37848700F533C3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		346597F41D37848700F533C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		346597F61D37848700F533C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		346597F91D37848700F533C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		346597FB1D37848700F533C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		346598001D37848700F533C3 /* weiPhoneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weiPhoneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +65,25 @@
 		3465980B1D37848700F533C3 /* weiPhoneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weiPhoneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3465980F1D37848700F533C3 /* weiPhoneUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = weiPhoneUITests.m; sourceTree = "<group>"; };
 		346598111D37848700F533C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		346598231D378F2A00F533C3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		346598281D37928900F533C3 /* Images-2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-2.xcassets"; sourceTree = "<group>"; };
+		3465982B1D387C6200F533C3 /* bg_landscape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg_landscape.jpg; sourceTree = "<group>"; };
+		3465982C1D387C6200F533C3 /* bg_portrait.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg_portrait.jpg; sourceTree = "<group>"; };
+		3465982D1D387C6200F533C3 /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		3465982E1D387C6200F533C3 /* style.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = style.plist; sourceTree = "<group>"; };
+		346598331D387C8100F533C3 /* login_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login_logo.png; sourceTree = "<group>"; };
+		346598341D387C8100F533C3 /* login_logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "login_logo@2x.png"; sourceTree = "<group>"; };
+		346598351D387C8100F533C3 /* login_logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "login_logo@3x.png"; sourceTree = "<group>"; };
+		346598391D387CAD00F533C3 /* AppReleaseInfo-568h.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "AppReleaseInfo-568h.jpg"; sourceTree = "<group>"; };
+		3465983A1D387CAD00F533C3 /* AppReleaseInfo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AppReleaseInfo.jpg; sourceTree = "<group>"; };
+		3465983D1D38CCF800F533C3 /* 线.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "线.png"; sourceTree = "<group>"; };
+		3465983F1D38DB2E00F533C3 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		346598411D38DBC400F533C3 /* ZXCoreMotion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXCoreMotion.h; sourceTree = "<group>"; };
+		346598421D38DBC400F533C3 /* ZXCoreMotion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXCoreMotion.m; sourceTree = "<group>"; };
+		346598441D3CBECC00F533C3 /* ZXGravityImgView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXGravityImgView.h; sourceTree = "<group>"; };
+		346598451D3CBECC00F533C3 /* ZXGravityImgView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXGravityImgView.m; sourceTree = "<group>"; };
+		346598491D3E233300F533C3 /* ZXGuideView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXGuideView.h; sourceTree = "<group>"; };
+		3465984A1D3E233300F533C3 /* ZXGuideView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXGuideView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +91,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				346598401D38DB2E00F533C3 /* CoreMotion.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,10 +139,19 @@
 				346597EE1D37848700F533C3 /* AppDelegate.m */,
 				346597F01D37848700F533C3 /* ViewController.h */,
 				346597F11D37848700F533C3 /* ViewController.m */,
+				346598411D38DBC400F533C3 /* ZXCoreMotion.h */,
+				346598421D38DBC400F533C3 /* ZXCoreMotion.m */,
+				346598441D3CBECC00F533C3 /* ZXGravityImgView.h */,
+				346598451D3CBECC00F533C3 /* ZXGravityImgView.m */,
+				346598491D3E233300F533C3 /* ZXGuideView.h */,
+				3465984A1D3E233300F533C3 /* ZXGuideView.m */,
+				3465982A1D387C1900F533C3 /* sourcePic */,
 				346597F31D37848700F533C3 /* Main.storyboard */,
-				346597F61D37848700F533C3 /* Assets.xcassets */,
 				346597F81D37848700F533C3 /* LaunchScreen.storyboard */,
 				346597FB1D37848700F533C3 /* Info.plist */,
+				346598231D378F2A00F533C3 /* Images.xcassets */,
+				346598281D37928900F533C3 /* Images-2.xcassets */,
+				3465983F1D38DB2E00F533C3 /* CoreMotion.framework */,
 				346597EA1D37848700F533C3 /* Supporting Files */,
 			);
 			path = weiPhone;
@@ -138,6 +181,23 @@
 				346598111D37848700F533C3 /* Info.plist */,
 			);
 			path = weiPhoneUITests;
+			sourceTree = "<group>";
+		};
+		3465982A1D387C1900F533C3 /* sourcePic */ = {
+			isa = PBXGroup;
+			children = (
+				3465983D1D38CCF800F533C3 /* 线.png */,
+				346598391D387CAD00F533C3 /* AppReleaseInfo-568h.jpg */,
+				3465983A1D387CAD00F533C3 /* AppReleaseInfo.jpg */,
+				346598331D387C8100F533C3 /* login_logo.png */,
+				346598341D387C8100F533C3 /* login_logo@2x.png */,
+				346598351D387C8100F533C3 /* login_logo@3x.png */,
+				3465982B1D387C6200F533C3 /* bg_landscape.jpg */,
+				3465982C1D387C6200F533C3 /* bg_portrait.jpg */,
+				3465982D1D387C6200F533C3 /* bg.jpg */,
+				3465982E1D387C6200F533C3 /* style.plist */,
+			);
+			path = sourcePic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +303,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3465983B1D387CAD00F533C3 /* AppReleaseInfo-568h.jpg in Resources */,
+				3465983E1D38CCF800F533C3 /* 线.png in Resources */,
+				346598241D378F2A00F533C3 /* Images.xcassets in Resources */,
 				346597FA1D37848700F533C3 /* LaunchScreen.storyboard in Resources */,
-				346597F71D37848700F533C3 /* Assets.xcassets in Resources */,
+				3465982F1D387C6200F533C3 /* bg_landscape.jpg in Resources */,
+				3465983C1D387CAD00F533C3 /* AppReleaseInfo.jpg in Resources */,
+				346598291D37928900F533C3 /* Images-2.xcassets in Resources */,
+				346598311D387C6200F533C3 /* bg.jpg in Resources */,
+				346598371D387C8100F533C3 /* login_logo@2x.png in Resources */,
+				346598381D387C8100F533C3 /* login_logo@3x.png in Resources */,
 				346597F51D37848700F533C3 /* Main.storyboard in Resources */,
+				346598321D387C6200F533C3 /* style.plist in Resources */,
+				346598361D387C8100F533C3 /* login_logo.png in Resources */,
+				346598301D387C6200F533C3 /* bg_portrait.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +343,10 @@
 			files = (
 				346597F21D37848700F533C3 /* ViewController.m in Sources */,
 				346597EF1D37848700F533C3 /* AppDelegate.m in Sources */,
+				346598431D38DBC400F533C3 /* ZXCoreMotion.m in Sources */,
+				346598461D3CBECC00F533C3 /* ZXGravityImgView.m in Sources */,
 				346597EC1D37848700F533C3 /* main.m in Sources */,
+				3465984B1D3E233300F533C3 /* ZXGuideView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,7 +487,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = weiPhone/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZhangXu.NeuSoft.weiPhone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +502,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = weiPhone/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZhangXu.NeuSoft.weiPhone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -496,6 +577,7 @@
 				346598161D37848700F533C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		346598171D37848700F533C3 /* Build configuration list for PBXNativeTarget "weiPhoneTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +586,7 @@
 				346598191D37848700F533C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3465981A1D37848700F533C3 /* Build configuration list for PBXNativeTarget "weiPhoneUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +595,7 @@
 				3465981C1D37848700F533C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

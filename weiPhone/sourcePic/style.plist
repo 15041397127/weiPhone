@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>欢迎回到威锋</string>
+	<key>info</key>
+	<string>共同的兴趣爱好，代表一种凝聚的力量！</string>
+	<key>titleColor</key>
+	<string>255,255,255,1.0</string>
+	<key>infoColor</key>
+	<string>255,255,255,1.0</string>
+	<key>titleFont</key>
+	<integer>20</integer>
+	<key>infoFont</key>
+	<integer>16</integer>
+</dict>
+</plist>
